@@ -1,10 +1,14 @@
 {
 "urls": [
+{"url": "https://raw.iqiq.io/iodata999/gao/master/0826.json","name": "0826FTY"},
 {"url": "https://raw.iqiq.io/iodata999/gao/master/0820.json","name": "0820FTYQ"},
-{"url": "https://raw.iqiq.io/iodata999/gao/master/js.json","name": "JS"},
-{"url": "https://raw.iqiq.io/iodata999/gao/master/js1.json","name": "JS1"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/0820.json","name": "0820FTYQ2"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/js.json","name": "JS"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/js1.json","name": "JS1"}
+{"url": "https://raw.iqiq.io/iodata999/gao/master/0828.json","name": "0828TS"},
+{"url": "https://raw.iqiq.io/iodata999/gao/master/js.json","name": "JSDRPY"},
+{"url": "https://raw.iqiq.io/iodata999/gao/master/xBPQ.json","name": "xBPQCNS"},
+{"url": "https://raw.iqiq.io/iodata999/gao/master/XYQ.json","name": "XYQXYQ"},
+
+{"url": "https://raw.iqiq.io/iodata999/gao/master/0827.json","name": "0827FM"}
+
+
 ]
 }
